@@ -52,7 +52,7 @@
                         bindings = <
    &trans &trans   &trans &trans   &trans   &trans      &trans    &trans    &trans   &trans   &trans   &trans
    &kp TILDE &kp EXCL &kp AT &kp HASH &kp DLLR &kp PRCNT   &kp CARET &kp AMPS  &kp STAR &kp LPAR &kp RPAR &kp UNDER 
-   &kp trans &trans   &trans &trans   &trans   &trans      &kp LBRC  &kp RBRC  &trans   &trans   &trans   &trans
+   &trans &trans   &trans &trans   &trans   &trans      &kp LBRC  &kp RBRC  &trans   &trans   &trans   &trans
                     	     &trans   &trans   &trans      &trans    &trans    &trans
                         >;
                 };
